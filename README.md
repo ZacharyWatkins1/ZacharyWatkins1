@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zachary Watkins
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in Full Stack Development, Data Science and Analytics
+- 🌱 I’m currently learning SQL, Java
 - 💞️ I’m looking to collaborate on E-commerce application/ Web development project
 - 📫 How to reach me:
   
